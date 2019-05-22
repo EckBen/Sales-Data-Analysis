@@ -1,4 +1,11 @@
-Heroes Of Pymoli Data Analysis
+# Sales Data Analysis
+Data manipulation using the pandas library to show trends in sales within a fake online game.
+
+## Requirements
+- pandas
+- numpy
+
+## Observable Trends
 
 -Overall, the 20-24 year age group contributes the most to total revenue at 64.16%. This is also the largest demographic at 44.79%, yeilding a per capita spending of 41.64% above the average ($3.05/person). This means that 20-24 year olds are a very important demographic.
 
